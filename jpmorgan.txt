@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "JP Morgan bank is a bank that has over 65million customers worldwide"
+echo "Their online banking is the best in the market"
+echo "with their online banking, you can make transactions 24 hours daily"
